@@ -1,0 +1,21 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+body{
+    height: 100%;
+    height: 100vh;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.h-50{
+    height: 150px !important;
+    margin-bottom: 300px !important;
+}
+
+.last{
+    background-color: #999999 !important;
+    margin-inline: 30px;
+    margin-block: 30px;
+}
