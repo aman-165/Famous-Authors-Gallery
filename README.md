@@ -1,1 +1,1 @@
-![Uploading screencapture-file-D-Felix-It-system-AP102-index-html-2025-07-07-16_42_18.png…]()
+<img width="1920" height="1282" alt="screencapture-file-D-Felix-It-system-AP102-index-html-2025-07-07-16_42_18" src="https://github.com/user-attachments/assets/fc77a398-4e74-4754-8fab-21c66930519d" />
