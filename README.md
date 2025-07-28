@@ -85,14 +85,6 @@ This project is open source under the MIT License
 ## 🌟 Show Your Support
 If you like this project, don’t forget to ⭐ star the repo!
 
----
-
-Let me know if:
-- You want a dark mode toggle in the gallery.
-- You want to deploy it via GitHub Pages (I'll help).
-- You want a YAML version or a table-based markdown version.
-
-Ready to use! ✅
 
 
 
