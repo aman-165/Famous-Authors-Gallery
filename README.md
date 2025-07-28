@@ -71,8 +71,9 @@ Make sure all images are correctly placed in the /images folder
 ---
 
 ## 👨‍💻 Author
-Aman Patel
-GitHub: @aman-165
+
+Developed by [Aman-165](https://github.com/aman-165)
+
 
 ---
 
