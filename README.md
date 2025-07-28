@@ -49,11 +49,56 @@ Famous-Authors-Gallery/<br>
 
 ## 🔮 Future Improvements
 
-```yaml
 - Add modal popup or separate pages for full biography
 - Add more authors dynamically
 - Implement author filtering by genre (self-help, finance, culture, etc.)
 - Make design fully responsive on all devices
 - Add animations on hover or load (e.g., fade-in)
+
+---
+
+## 🚀 How to Use
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/aman-165/Famous-Authors-Gallery.git
+
+
+2. Open index.html in your browser
+
+Make sure all images are correctly placed in the /images folder
+
+---
+
+## 👨‍💻 Author
+Aman Patel
+GitHub: @aman-165
+
+---
+
+## 📝 License
+This project is open source under the MIT License
+
+---
+
+## 🌟 Show Your Support
+If you like this project, don’t forget to ⭐ star the repo!
+
+---
+
+Let me know if:
+- You want a dark mode toggle in the gallery.
+- You want to deploy it via GitHub Pages (I'll help).
+- You want a YAML version or a table-based markdown version.
+
+Ready to use! ✅
+
+
+
+
+
+  
+
+
 
 
